@@ -9,6 +9,11 @@ Improved startup file for Blender 3D 2.79b
 
 ![change-topbar](https://user-images.githubusercontent.com/391735/54474075-40ccef00-481b-11e9-9383-865e7c231c02.png)
 
+* No default cube
+* Grid lines to 100
+
+![view](https://user-images.githubusercontent.com/391735/54474435-b470fb00-481f-11e9-95e2-9a3d93323eaf.png)
+
 * 3D Viewport camera clip is from 10cm to 1km
 * Default 3D Cursor location is 1m high (so that, when you create new object, it is on the ground):
 
