@@ -14,6 +14,11 @@ Improved startup file for Blender 3D 2.79b
 
 ![view](https://user-images.githubusercontent.com/391735/54474435-b470fb00-481f-11e9-95e2-9a3d93323eaf.png)
 
+* Hide camera and Sun (Light)
+* Add hidden Ground object (for renders)
+
+![outliner](https://user-images.githubusercontent.com/391735/54474765-eab07980-4823-11e9-812d-d8ae94c75b82.png)
+
 * 3D Viewport camera clip is from 10cm to 1km
 * Default 3D Cursor location is 1m high (so that, when you create new object, it is on the ground):
 
@@ -41,6 +46,12 @@ Improved startup file for Blender 3D 2.79b
 * 512 samples for renders, 8 samples for preview
 
 ![render-sampling](https://user-images.githubusercontent.com/391735/54474276-0d3f9400-481e-11e9-9800-7e2b3a8ef180.png)
+
+### Scene Changes
+
+* Use metric units (m, cm, mm, km) and not Blender Units
+
+![scene-units](https://user-images.githubusercontent.com/391735/54474762-e4220200-4823-11e9-998f-425ddabbcc60.png)
 
 ## Suggested User Preferences
 
