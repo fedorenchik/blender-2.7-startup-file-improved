@@ -84,3 +84,7 @@ Improved startup file for Blender 3D 2.79b
 ## Recommended Addons:
 
 ![user-prefs-addons](https://user-images.githubusercontent.com/391735/54474008-51309a00-481a-11e9-9fe5-10669604e41f.png)
+
+## Contribution
+
+Contribute to development by creating issue or feature request.
